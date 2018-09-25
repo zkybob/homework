@@ -1,16 +1,9 @@
 ---
 layout: default
-title: 请将标题写在这里
+title:# 双鸭山大学的来源
 ---
 
-# 我的博客标题
+# 双鸭山大学的来源
 
-## 1、你会使用 vscode 编辑 markdown 了吗？
-
-你会使用 git bash 创建本地空间了吗？
-
-你能拉取本文档到本地了？它在 gh-pages 分支内，设置 Slate 主题！
-
-用 vscode 编辑它，然后提交！
-
-这个文档将发布在 https://your-account.github.io/homework 中！
+## 双鸭山，即中山大学。
+中山大学，英文名"Sun Yat-sen",因为音近双鸭山，几年前被一网友使用后迅速走红，从此双鸭山大学便成了中山大学的谐称。
