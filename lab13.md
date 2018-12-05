@@ -35,3 +35,4 @@ For 取遍蛇身每一个元素
 If 蛇头出了框图或蛇头与蛇身重合
 a=1
 }(a=1则循环停止)
+<img src="https://github.com/zkybob/zkybobhomework/blob/gh-pages/15237223_1.jpg?raw=true" />
