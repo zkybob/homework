@@ -12,7 +12,7 @@ title:# 智能蛇
 #include <conio.h>  
 #pragma warning(disable:4996)
 
-#define SNAKE_MAX_LENGTH 20
+#define SNAKE_MAX_LENGTH 20  
 #define SNAKE_HEAD 'H'
 #define SNAKE_BODY 'X'
 #define BLANK_CELL ' '
